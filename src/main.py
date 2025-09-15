@@ -1,1 +1,1 @@
-echo 'Print("Hello, GitHub + Shell Navigation!")'
+'Print("Hello, GitHub + Shell Navigation!")'
