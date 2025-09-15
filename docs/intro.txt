@@ -1,1 +1,1 @@
-echo "What is Shell Navigation?" 
+"What is Shell Navigation?" 
